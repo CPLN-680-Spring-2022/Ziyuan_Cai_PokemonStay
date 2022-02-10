@@ -12,7 +12,7 @@ For Pokémon players, in an unfamiliar place, it is impossible to judge where to
 
 |     Source     |            Name            |                             Url                              | Geometry Type |
 | :------------: | :------------------------: | :----------------------------------------------------------: | :-----------: |
-|      ACS       | Race/Income by block group | [ACS2019](https://www.census.gov/data/developers/data-sets/acs-5year.html) |    Polygon    |
+|      ACS       |    Crime by block group    | [ACS2019](https://www.census.gov/data/developers/data-sets/acs-5year.html) |    Polygon    |
 |    Pogomap     |       Poké Stop data       | [Pogomap](https://www.pogomap.info/) |    Point    |
 | OpenStreetMap  |           Road             | [Road](https://www.openstreetmap.org/relation/188022)|    Polygon    |
 | OpendataPhilly |         Land Cover         | [Land Cover Raster](https://www.opendataphilly.org/dataset/philadelphia-land-cover-raster) |    Raster     |

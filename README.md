@@ -21,7 +21,7 @@ For Pokémon players, in an unfamiliar place, it is impossible to judge where to
 
 ## Wireframes 
 
-![](./pic/wireframe.png)
+![](./pic/wireframe.PNG)
 
 ## Deliverable
 

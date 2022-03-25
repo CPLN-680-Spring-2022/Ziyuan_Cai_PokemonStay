@@ -12,13 +12,16 @@ For Pokémon players, in an unfamiliar place, it is impossible to judge where to
 
 |     Source     |            Name            |                             Url                              | Geometry Type |
 | :------------: | :------------------------: | :----------------------------------------------------------: | :-----------: |
-|      ACS       |    Crime by block group    | [ACS2019](https://www.census.gov/data/developers/data-sets/acs-5year.html) |    Polygon    |
+| OpendataPhilly |           Crime            | [Crime](https://www.opendataphilly.org/dataset/crime-incidents) |    Point    |
 |    Pogomap     |       Poké Stop data       | [Pogomap](https://www.pogomap.info/) |    Point    |
 | OpenStreetMap  |           Road             | [Road](https://www.openstreetmap.org/relation/188022)|    Polygon    |
-| OpendataPhilly |         Land Cover         | [Land Cover Raster](https://www.opendataphilly.org/dataset/philadelphia-land-cover-raster) |    Raster     |
+| OpenStreetMap  |           Food             | [Food](https://www.openstreetmap.org/relation/188022) |    Point     |
+| OpenStreetMap  |           Drink            | [Drink](https://www.openstreetmap.org/relation/188022) |    Point     |
+| OpenStreetMap  |          Bus Stop          | [Bus Stop](https://www.openstreetmap.org/relation/188022) |    Point     |
 
 ## Wireframes 
 
+![](./pic/wireframe.png)
 
 ## Deliverable
 
